@@ -1,6 +1,8 @@
 RENCANA RAFLI
 - Belajar HTML
+  2. HTML 5
 - CSS
+  1. CSS 3
 - Javascript
 - Tailwindcss
 - React JS
