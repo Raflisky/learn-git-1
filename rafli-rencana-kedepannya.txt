@@ -1,7 +1,12 @@
 RENCANA RAFLI
 - Belajar HTML
+  - HTML 3
 - CSS
 - Javascript
+   - DOM
+   - Function
+   - Tipe data
+   - Variable
 - Tailwindcss
 - React JS
 - Next JS
