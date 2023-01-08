@@ -2,3 +2,6 @@ RENCANA RAFLI
 - Belajar HTML
 - CSS
 - Javascript
+- Tailwindcss
+- React JS
+- Next JS
