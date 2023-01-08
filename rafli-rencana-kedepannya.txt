@@ -4,6 +4,10 @@ RENCANA RAFLI
 - CSS
   1. CSS 3
 - Javascript
+   - DOM
+   - Function
+   - Tipe data
+   - Variable
 - Tailwindcss
 - React JS
 - Next JS
