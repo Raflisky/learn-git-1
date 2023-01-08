@@ -5,3 +5,4 @@ RENCANA RAFLI
 - Tailwindcss
 - React JS
 - Next JS
+- Belajar GIT
